@@ -1,0 +1,11 @@
+
+
+Cheat Sheets
+appledeMacBook-Pro-2:desktop apple$ cat che_she.txt
+cat: show texts in a text file (cat new.txt)appledeMacBook-Pro-2:desktop apple$ 
+cd: change directory to a different path (cd desktop)
+echo: write texts in a text file (echo "I'm new" > new.txt)
+ls: show all documents in the folder
+mkdir: create a new folder (mkdir new)
+pwd: show present working directory
+touch: create a new text file (touch new.txt)
